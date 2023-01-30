@@ -1,0 +1,39 @@
+body{
+    background-color: brown;
+}
+.sh{
+    margin-top: 3px;
+    margin: bottom;
+    padding-right: 6px;
+    width: 290px;
+    position: absolute;
+    top:40% ;
+    left:50% ;
+    transform: translate(-50%,-50%);
+    font-size: 22px;
+}
+.sh h4{
+    font-size: 33px;
+    font-style: italic;
+    font-weight: 100%;
+    text-align: center;
+    
+}
+.pass{
+    float: right;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    overflow: hidden;
+    width: 100%;
+
+}
+.bt{
+    width: 20%;
+    background: none;
+    color: chartreuse;
+    border-color: darkblue;
+    padding: 2px;
+    margin: 2px;
+    font-size: 13px;
+}
